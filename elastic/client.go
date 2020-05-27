@@ -82,7 +82,6 @@ const (
 type BulkRequest struct {
 	Action   string
 	Index    string
-	Type     string
 	ID       string
 	Parent   string
 	Pipeline string
