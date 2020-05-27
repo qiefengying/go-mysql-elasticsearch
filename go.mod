@@ -1,4 +1,4 @@
-module github.com/siddontang/go-mysql-elasticsearch
+module github.com/qiefengying/go-mysql-elasticsearch
 
 go 1.12
 
@@ -10,4 +10,5 @@ require (
 	github.com/siddontang/go v0.0.0-20180604090527-bdc77568d726
 	github.com/siddontang/go-log v0.0.0-20190221022429-1e957dd83bed
 	github.com/siddontang/go-mysql v0.0.0-20190524062908-de6c3a84bcbe
+	github.com/siddontang/go-mysql-elasticsearch v0.0.0-20191111024017-d4e881274861 // indirect
 )
